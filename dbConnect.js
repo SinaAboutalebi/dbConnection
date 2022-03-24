@@ -1,8 +1,11 @@
 //---------------------------💔🚬 ᶻᵉʳᵒ༄ᴩᴏᴡᴇʀ💔🚬---------------------------//
-
+//Packages
 const mongoose = require("mongoose");
+const mongo_URI = 'ENTER YOUR Mongodb URI'; //EDIT HERE
 
-mongoose.connect('mongodb://192.168.1.39:2020/Discord',{
+
+//Functions
+mongoose.connect(mongo_URI,{
     useNewUrlParser: true,
     useUnifiedTopology: true
 }).then((db) => {
