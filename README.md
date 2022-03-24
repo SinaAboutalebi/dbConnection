@@ -4,6 +4,12 @@
  <p align="center">Snippet code for mongodb connection in js</p>
 </p>
 
+## Preview
+<p align="center">
+<img src="https://github.com/Zer0Power/dbConnection/blob/main/screenshots/Screenshot_at_2022-03-24_15-03-39.png">
+<img src="https://github.com/Zer0Power/dbConnection/blob/main/screenshots/Screenshot_at_2022-03-24_15-19-43.png">
+</p>
+
 ## Getting Started
 
 ### Prerequisites
