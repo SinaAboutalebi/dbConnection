@@ -30,7 +30,7 @@ First of all install npm.
    ```sh
    npm install mongoose
    ```
-3. Edit `dbConnect.js`
+3. Edit `dbConnect.js` File
    ```JS
    const mongo_URI = 'ENTER YOUR Mongodb URI';
    ```
